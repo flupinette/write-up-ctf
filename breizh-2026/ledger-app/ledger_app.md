@@ -1,3 +1,0 @@
-# Breizh Ledger App
-
-todo
